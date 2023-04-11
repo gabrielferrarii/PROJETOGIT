@@ -1,2 +1,0 @@
-# PROJETOGIT
-Projeto GitHub
